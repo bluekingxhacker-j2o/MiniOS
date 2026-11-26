@@ -5,9 +5,8 @@ with useful tools.
 
 ## Features
 - Calculator
-- English to Filipino translator
 - Settings
-
+- Games (under development)
 ## Developer
 MiniOS Developer
 
